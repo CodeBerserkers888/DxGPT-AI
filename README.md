@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0cb1f2e7-79b4-49b3-959c-25495c75572b/deploy-status)](https://app.netlify.com/sites/daxgpt/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fc7db2c-ed81-4e45-9c4c-eb229953b44c/deploy-status)](https://app.netlify.com/sites/daxgpt-ai/deploys)
