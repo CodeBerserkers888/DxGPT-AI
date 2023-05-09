@@ -164,7 +164,7 @@ export default function MuHeader({ children }: any) {
             <ActionIcon
               sx={{ opacity: 0.8 }}
               onClick={() => {
-                window.open("https://github.com/bulli77/DaxGPTAi", "_blank");
+                window.open("https://github.com/Bulli77/DxGPT-AI", "_blank");
               }}
             >
               <IconBrandGithub size={px("1.5rem")} />
