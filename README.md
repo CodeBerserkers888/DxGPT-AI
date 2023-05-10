@@ -58,4 +58,4 @@ Facebook: https://www.facebook.com/DxGPTAi
 Instagram: https://instagram.com/DxGPTAi
 <h3 align="left">📝 License:</h3>
 
-DxGPTAi is released under the MIT License.
+DxGPTAi is released under the GNU GPLv3
