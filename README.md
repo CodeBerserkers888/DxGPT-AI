@@ -22,13 +22,10 @@
 <h3 align="center">Welcome to my DxGPTAi repository!</h3>
 
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&amp;id=1rGPSUy9Q7mtYvnvsvnHvhkRT1j-XbdVT" alt="Logo" width="180" height="180">
-</div><h1 align="center">🤖 DxGPTAi - Your Ultimate Chatbot Experience! 🤖</h1>
-<h3 align="center">Welcome to my DxGPTAi repository!</h3>
-
-<div align="center">
-<img src="https://drive.google.com/uc?export=view&amp;id=1rGPSUy9Q7mtYvnvsvnHvhkRT1j-XbdVT" alt="Logo" width="180" height="180">
+  <img src="https://drive.google.com/uc?export=view&id=1FacnBBeMIqJ0zfy1Y3gJqtAFASMT2tGg" alt="Logo" width="180" height="180">
 </div>
+
+
 
 Are you tired of using chatbots that invade your privacy and store your data indefinitely? Look no further! My DxGPTAi is here to provide you with a secure and reliable chatbot experience. 💬 With DxGPTAi, you can enjoy conversations without worrying about your data being mishandled. Our platform is designed to delete all temporarily stored information after shutdown, ensuring your privacy is protected to the fullest.
 
