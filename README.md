@@ -25,6 +25,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1FacnBBeMIqJ0zfy1Y3gJqtAFASMT2tGg" alt="Logo" width="180" height="180">
 </div>
 
+![DxGPT-AI](https://socialify.git.ci/Bulli77/DxGPT-AI/image?font=Rokkitt&language=1&name=1&owner=1&stargazers=1&theme=Dark)
 
 
 Are you tired of using chatbots that invade your privacy and store your data indefinitely? Look no further! My DxGPTAi is here to provide you with a secure and reliable chatbot experience. 💬 With DxGPTAi, you can enjoy conversations without worrying about your data being mishandled. Our platform is designed to delete all temporarily stored information after shutdown, ensuring your privacy is protected to the fullest.
